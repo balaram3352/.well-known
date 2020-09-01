@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ab.fiserv.qa",
+    "sha256_cert_fingerprints":
+    ["A1:20:9E:57:F0:47:C0:4C:0E:A9:71:37:69:95:96:14:96:3D:C5:C2:7A:E1:28:36:55:82:32:69:40:94:D1:09"]
+  }
+}]
